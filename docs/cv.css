@@ -2,7 +2,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
-  background: rgb(131, 238, 154);
+  background: rgb(131, 238, 218);
   color: black;
   line-height: 20px;
   font-size: 18px;
@@ -12,7 +12,7 @@ body {
 header {
   text-align: center;
   padding: 20px;
-  background: white
+  background: rgb(255, 255, 255)
 }
 
 .photo {
